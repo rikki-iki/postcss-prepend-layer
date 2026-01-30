@@ -1,6 +1,6 @@
 {
   "name": "postcss-prepend-layer",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "PostCSS plugin to prepend @layer rules",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
