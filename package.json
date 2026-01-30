@@ -1,0 +1,30 @@
+{
+  "name": "postcss-prepend-layer",
+  "version": "1.0.0",
+  "description": "PostCSS plugin to prepend @layer rules",
+  "main": "dist/postcss-prepend-layer.js",
+  "types": "dist/postcss-prepend-layer.d.ts",
+  "files": [
+    "dist"
+  ],
+  "keywords": [
+    "postcss",
+    "postcss-plugin",
+    "css",
+    "layer"
+  ],
+  "author": "rikki_iki <rikki.bochow@gmail.com>",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "postcss": "^8.4.0"
+  },
+  "devDependencies": {
+    "postcss": "^8.5.6",
+    "typescript": "^5.9.3"
+  },
+  "packageManager": "pnpm@10.17.0"
+}
